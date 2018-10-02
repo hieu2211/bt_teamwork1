@@ -10,6 +10,71 @@
 /* <!-- -------truong-------- --> */
 /* <!-- -----endtruong------- --> */
 /* <!-- --------hien--------- --> */
-/* <!-- ------endhien-------- --> */
+.welcome{
+	width: 100%;
+	height: 80px;
+	background: lightblue;
+}
+.welcome .h3 {
+	width: 50%;
+	height: 100%;
+	float:left;
+}
+.welcome h3{
+	margin: 0;
+	padding-top: 30px;
+	padding-left: 30px;
+	color: white;
+	font-size: 25px;
+	font-family: Arial;
+}
+.welcome .sign{
+	width: 15%;
+	height: 100%;
+	/*background: red;*/
+	float: left;
+}
+.sign form{
+	display: block;
+	width: 100%;
+	height: 100%
+}
+.sign input.box{
+	height: 40px;
+	margin-top: 20px;
+	padding-left: 45px;
+	background: blue;
+	font-size: 20px;
+	background-image: url(//D:/Mang/Icon/okline.png);
+	background-size: 35px 35px;
+	background-repeat: no-repeat;
+	background-position: 4px;
+	border-radius: 7px;
+	border-color: blue;
+
+}
+.welcome .or{
+	width: 1%;
+	height: 100%;
+	/*background: blue;*/
+	float: left;
+}
+.or p{
+	display: block;
+	padding-top: 15px;
+}
+.welcome .link{
+	width: 31%;
+	height: 100%;
+	/*background: green;*/
+	float: left;
+}
+.link a{
+	display: block;
+	padding-left: 10px;
+	padding-top: 30px;
+	font-size: 18px;
+}
+/* <!-- ------endhien-------- --> 
 /* <!-- -------luong--------- --> */
 /* <!-- ------endluong------- --> */
