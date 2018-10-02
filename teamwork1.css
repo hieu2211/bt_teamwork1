@@ -6,6 +6,29 @@
 /* <!-- --------nhan--------- --> */
 /* <!-- -------endnhan------- --> */
 /* <!-- ----------y--------- ---> */
+.khung .menu{
+	display: block;
+	width: 100%;
+	height: 50px;
+	border-bottom: 2px solid white;
+	padding-bottom:20px;
+	padding-top: 21px;
+}
+.khung .menu a{
+	text-align: center;
+	margin: 0 auto;
+	float: left;
+	display: block;
+	text-decoration: none;
+	margin-left: 20px;
+	color: black;
+	font-size: 25px;
+	padding: 10px;
+	font-family: Helvetica, Arial, Tahoma, sans-serif;
+}
+.khung .menu a:hover{
+	background:white;
+}
 /* <!-- --------endy-------- ---> */
 /* <!-- -------truong-------- --> */
 /* <!-- -----endtruong------- --> */
