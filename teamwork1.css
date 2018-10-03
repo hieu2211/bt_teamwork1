@@ -12,4 +12,69 @@
 /* <!-- --------hien--------- --> */
 /* <!-- ------endhien-------- --> */
 /* <!-- -------luong--------- --> */
+.khung .footer{
+	widows: 100%;
+	height: 650px;
+}
+.footer .hop{
+	width: 100%;
+	height: 35%;
+	margin-bottom: 3%;
+}
+.hop .box{
+	float: left;
+	width: 30%;
+	height: 100%;
+}
+.box h4{
+	margin: 0;
+	display: block;
+	width: 100%;
+	height: 20px;
+	background: white;
+	line-height: 90px;
+	padding-left: 80px;
+	padding-top: 20px;
+	font-size: 18px;
+}
+.box .pic{
+	margin-left: 20px;
+	width: 50px;
+	height: 50px;
+}
+.pic img{
+	width: 100%;
+	height: 100%;
+}
+.box p{
+	margin: 0;
+	line-height: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+	font-size: 18px;
+	color:   #808080;
+}
+.dip{
+	margin-right: 5%;
+	margin-left: 5%;
+}
+.footer .hop2{
+	width: 100%;
+	height: 45%;
+}
+.hop2 .box{
+	float: left;
+	width: 30%;
+	height: 100%;
+}
+.khung a{
+	text-decoration: none;
+	color:  #999999;
+	margin: 0;
+}
+.khung a p{
+	margin: 0;
+	padding-left: 2px;
+}
+
 /* <!-- ------endluong------- --> */
