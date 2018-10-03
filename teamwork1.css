@@ -4,6 +4,55 @@
     background: silver;
 }
 /* <!-- --------nhan--------- --> */
+.khung .header{
+    width: 100%;
+    height: 100px;
+    /* background: black; */
+    box-sizing: border-box;
+    padding: 15px 40px;
+}
+.header .left img{
+    width: 70px;
+    height: 70px;
+}
+.left h3.art{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    top: 8px;
+    left: 130px;
+}
+.left h3.box7{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #fff;
+    position: absolute;
+    top: 8px;
+    left: 175px;
+}
+.left h3.com{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    top: 18px;
+    left: 240px;
+}
+.left p{
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    top: 52px;
+    left: 150px;
+    color: #fff;
+}
+.header .call{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fff;
+    position: absolute;
+    top: 40px;
+    right: 47px;
+}
 /* <!-- -------endnhan------- --> */
 /* <!-- ----------y--------- ---> */
 /* <!-- --------endy-------- ---> */
