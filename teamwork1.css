@@ -36,7 +36,7 @@
 	height: 80px;
 	/* background: green; */
 	/*xac dinh con*/
-    position: absolute;
+    position: absolute relative;
 }
 .box1 ul li a{
 	display: block;
