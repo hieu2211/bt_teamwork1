@@ -80,6 +80,60 @@
 /* <!-- --------endy-------- ---> */
 /* <!-- -------truong-------- --> */
 /* <!-- -----endtruong------- --> */
+.box{
+    width: 100%;
+    height: 300px;
+    background: gray;
+    margin: 0 auto;
+}
+.box .box1{
+    width: 80%;
+    height: 90%;
+    margin: 0 auto;
+    /* background: black; */
+}
+.box1 img{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding-top: 15px;
+}
+.box1 ul{
+	list-style-type: none;
+}
+.box1 ul li{
+	display: block;
+	width: 80px;
+	height: 80px;
+	/* background: green; */
+	/*xac dinh con*/
+    position: absolute;
+}
+.box1 ul li a{
+	display: block;
+	width: 100%;
+	height: 100%;
+	color: white;
+	text-decoration: none;
+	line-height: 80px;
+	text-align: center;
+	text-indent: -9999px;
+}.box1 li.prev{
+	top: 20%;
+	right: 90px;
+	/*background: red;*/
+	background-image: url('//D:/k17uda/css/n.png');
+	background-size: 100% 100%;
+	background-position: left 15px top 0px;
+}
+.box1 li.next{
+	top: 20%;
+	left: 90px;
+	/*background: red;*/
+    background-image: url('//D:/k17uda/css/prev1.png');
+	background-size: 100% 100%	;
+    background-position: left -15px top 0px;
+}
 /* <!-- --------hien--------- --> */
 /* <!-- ------endhien-------- --> */
 /* <!-- -------luong--------- --> */
